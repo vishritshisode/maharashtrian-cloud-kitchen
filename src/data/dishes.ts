@@ -1,6 +1,6 @@
 import puranPoli from "@/assets/puran-poli.jpg";
 import misalPav from "@/assets/misal-pav.jpg";
-import vadaPav from "@/assets/vada-pav.jpg";
+import vadaPavNew from "@/assets/vada-pav-new.jpg";
 import sabudanaKhichdi from "@/assets/sabudana-khichdi.jpg";
 import modak from "@/assets/modak.jpg";
 import poha from "@/assets/poha.jpg";
@@ -45,7 +45,7 @@ export const dishes: Dish[] = [
     name: "Vada Pav",
     price: 60,
     description: "Mumbai's iconic street food — crispy batata vada in a soft pav bun with spicy green chutney and dry garlic chutney.",
-    image: vadaPav,
+    image: vadaPavNew,
     category: "snack",
     rating: 4.7,
     isVeg: true,
